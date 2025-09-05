@@ -8,6 +8,20 @@
       "when": 1752798558970,
       "tag": "0000_quiet_bloodscream",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1755122798896,
+      "tag": "0001_slim_puff_adder",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1757012944310,
+      "tag": "0002_flashy_stardust",
+      "breakpoints": true
     }
   ]
 }
